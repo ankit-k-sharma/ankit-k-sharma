@@ -1,4 +1,4 @@
-# Hi My Old GitHub Account [Ankit Kumar Sharma!](https://github.com/ankitkumarsharma)  is locked, not able to recover that why create this account, 
+# Hi My Old GitHub Account [https://github.com/ankitkumarsharma](https://github.com/ankitkumarsharma)  is locked, not able to recover that why create this new account, 
 # Hi there, I'm [Ankit Kumar Sharma!](https://www.ankitkumarsharma.com/)
 <p>
 <a href="https://twitter.com/ankit_k_sharma">
@@ -43,13 +43,14 @@ I have total 8+ years of experience as full stack developer.
 Consider Following my profile if you like it, for future posts and technical queries.
 
 Technologies:
-- Javascript, Angular, React, jQuery, PWA, D3 JS, NodeJS, ExpressJS
+- Javascript, Type Script, Angular, React, jQuery, PWA, D3 JS, NodeJS, ExpressJS
 - Java, Python,
 - SQL Server, MongoDB, MySQL
 - Wordpress, Magento, SEO
 - HTML/CSS/Bootstrap, SCSS, Web Designing & UX
 - Gitlab, Bitbucket, Git, Hosting Manager (cPanel), Jenkins, Azure DevOps, AWS S3
-- Trainer for TechSoftware En
+- Corporate Trainer
+- Active Blogger for Opensource Tech
 
 
 <!---
